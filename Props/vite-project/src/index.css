@@ -1,0 +1,18 @@
+*{
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(0, 0, 0);
+  color: white;
+
+}
+
+body{
+  height: 100hv;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  color: white;
+}

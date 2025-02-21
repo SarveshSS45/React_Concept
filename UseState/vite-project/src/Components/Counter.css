@@ -1,0 +1,23 @@
+.counter-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#para {
+    font-size: 1.5em;
+    color: #333;
+}
+
+#btn {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btn:hover {
+    background-color: #0056b3;
+}
